@@ -167,5 +167,6 @@ form button:hover {
     visibility: hidden;
     transform: translateY(-30px);
     transition: transform .5s;
+    text-align: center;
 }
 
